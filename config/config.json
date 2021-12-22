@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdE20a167AF02E7E8BFcA89914E64570513f19E97",
+  "SCAN_LINK": "https://polygonscan.com/token/0xdE20a167AF02E7E8BFcA89914E64570513f19E97",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PotatoTest",
+  "SYMBOL": "POTT",
+  "MAX_SUPPLY": 60,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/potatotest-v2",
+  "SHOW_BACKGROUND": false
+}
